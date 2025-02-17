@@ -1,5 +1,3 @@
-package Inheritance;
-
 public class Doctor extends Staff {
     private String specialization;
     private int yearsOfExperience;

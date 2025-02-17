@@ -1,6 +1,4 @@
-package Inheritance;
-
-public  class Nurse extends Staff{
+public class Nurse extends Staff{
     private String shift;
     private int patientAssigned;
 

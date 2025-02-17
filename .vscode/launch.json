@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Abstraction.Main",
+            "projectName": "Java_6b6288e7"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Encapsulation.Main",
+            "projectName": "Java_6b6288e7"
+        },
+        {
+            "type": "java",
+            "name": "HospitalManagementSystem",
+            "request": "launch",
+            "mainClass": "Inheritance.HospitalManagementSystem",
+            "projectName": "Java_6b6288e7"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Polymorphism.Main",
+            "projectName": "Java_6b6288e7"
+        },
+        {
+            "type": "java",
+            "name": "text",
+            "request": "launch",
+            "mainClass": "text",
+            "projectName": "Java_6b6288e7"
+        }
+    ]
+}
